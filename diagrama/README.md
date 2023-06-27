@@ -1,4 +1,5 @@
 # Diagrama electromecánico
 
-Diagrama en el que se describa cómo funcionará su arma y qué componentes utiliza.
+![diagrama explicado](https://github.com/Battlebots-UChile/template-battlebot/assets/137957323/29b4e533-a05d-4790-b9ff-085fb11b37ed)
+
 
