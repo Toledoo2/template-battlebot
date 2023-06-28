@@ -9,3 +9,22 @@ Se deben subir:
 - Vídeo de demostración/funcionamiento
 
 Se sugiere subir todas las imágenes y vídeos a esta carpeta y linkearlos desde acá para otros archivos. 
+foto avances ![WhatsApp Image 2023-06-27 at 22 52 33](https://github.com/Toledoo2/template-battlebot/assets/137957323/e3655bd4-f712-4161-a5a8-5db3e24a2955)
+![WhatsApp Image 2023-06-27 at 22 52 32 (1)](https://github.com/Toledoo2/template-battlebot/assets/137957323/b8020b10-f701-4ec0-927a-34c8a6763d4f)
+![WhatsApp Image 2023-06-27 at 22 52 32](https://github.com/Toledoo2/template-battlebot/assets/137957323/8f3622e9-4552-4f2e-a99d-a5a4a0877012)
+![WhatsApp Image 2023-06-27 at 22 52 31](https://github.com/Toledoo2/template-battlebot/assets/137957323/1df40939-4602-4f67-a53d-89fbfffbf43d)
+![WhatsApp Image 2023-06-27 at 22 52 36](https://github.com/Toledoo2/template-battlebot/assets/137957323/ebf15541-0aa6-477e-9db1-cb2b221322f7)
+![WhatsApp Image 2023-06-27 at 22 52 37](https://github.com/Toledoo2/template-battlebot/assets/137957323/1e2683c8-17fe-4c1e-8065-5da1ff2c2407)
+![WhatsApp Image 2023-06-27 at 22 52 39 (1)](https://github.com/Toledoo2/template-battlebot/assets/137957323/53dd16e0-ffe7-4745-a0f6-98827952114f)
+![WhatsApp Image 2023-06-27 at 22 52 39](https://github.com/Toledoo2/template-battlebot/assets/137957323/594b1c09-4b1e-41e5-a7e2-bcbbe9f3a872)
+![WhatsApp Image 2023-06-27 at 22 52 38 (1)](https://github.com/Toledoo2/template-battlebot/assets/137957323/1ba1b7ab-c478-480e-9e91-d579a1e49a8a)
+![WhatsApp Image 2023-06-27 at 22 52 38](https://github.com/Toledoo2/template-battlebot/assets/137957323/7c7b864a-3137-4ad0-b16d-c5d70ad64ed4)
+
+ foto proyecto terminado(casi)![WhatsApp Image 2023-06-27 at 18 54 47](https://github.com/Toledoo2/template-battlebot/assets/137957323/0f5c833c-f59e-4163-8170-f44b454a7492)
+
+ video demostracion funcionamiento
+https://github.com/Toledoo2/template-battlebot/assets/137957323/d5ee0d17-b85a-4f54-9003-35cb7d148ba2
+
+
+
+
